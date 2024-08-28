@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm DU Kang(Ken)
 
-- 🔭 I’m Du Kang, an entrepreneur and software engineer. 
+- 🔭 I’m an entrepreneur and software engineer. 
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java, Python and Typescript.
 - 📫 How to reach me: dukang92@gmail.com
